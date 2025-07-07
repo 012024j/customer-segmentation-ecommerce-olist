@@ -17,7 +17,7 @@ En tant que consultante data, j’ai été sollicitée pour :
 
 ---
 
-## 🛠️ Méthodologie
+## Méthodologie
 
 ### 1. **Exploration et préparation des données**
 - Analyse des données issues de plusieurs tables : commandes, produits, clients, avis.
@@ -35,7 +35,7 @@ En tant que consultante data, j’ai été sollicitée pour :
 
 ---
 
-## 📊 Résultats
+## Résultats
 
 - **4 segments clients** ont été identifiés : Champions, Loyaux, À risque, Perdus.
 - L’ajout des **Review Scores** a permis une meilleure séparation des segments.
@@ -44,14 +44,14 @@ En tant que consultante data, j’ai été sollicitée pour :
 
 ---
 
-## 🖼️ Visualisation
+## Visualisation
 
 Une présentation complète a été réalisée pour exposer les résultats et convaincre les parties prenantes internes.  
 Elle contient des graphiques 3D, boxplots, résultats d’ARI, et une synthèse des insights business.
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 - Python (Pandas, Scikit-learn, Matplotlib, Seaborn, Yellowbrick)
 - SQL (PostgreSQL)
 - Jupyter Notebook
