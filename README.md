@@ -1,6 +1,6 @@
 # Segmentation de clients pour Olist - Projet Data Science
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce projet a été réalisé dans le cadre d’une mission professionnelle simulée pour Olist, une entreprise brésilienne spécialisée dans les solutions de vente sur les marketplaces.  
 L'objectif est de **segmenter les clients** à partir de données transactionnelles et de satisfaction afin d'aider l’équipe marketing à mieux cibler ses actions.
